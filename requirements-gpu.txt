@@ -1,5 +1,5 @@
 backports.weakref==1.0rc1
-bleach==3.1.4
+bleach==3.3.0
 cycler==0.10.0
 graphviz==0.8.1
 h5py==2.7.1
