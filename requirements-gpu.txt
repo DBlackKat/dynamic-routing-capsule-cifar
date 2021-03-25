@@ -16,7 +16,7 @@ pydot==1.2.3
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2017.3
-PyYAML==3.12
+PyYAML==5.4
 scipy==1.0.0
 six==1.11.0
 tensorflow-gpu==1.2.1
